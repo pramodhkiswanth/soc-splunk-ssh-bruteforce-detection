@@ -166,5 +166,5 @@ In a production SOC environment:
 
 ## Author
 
-**Pramodhkiswath**  
+**Pramodhkiswanth**  
 SOC / Cybersecurity Lab Project
